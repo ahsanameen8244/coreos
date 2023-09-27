@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.1.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCzjWkv/DPx5NRc+p+DYhsyO9ZJa5/b3EtkkdcI5NJO1cDXuS9EOdxg+PTrEMogFAOnCFCEbJhKnoucntwYR0lnhFwlc+xVg/6bnZeQHBhxLQCKVW7Nc2jST6RnTh31JvJ97m1S000mcRS+xhcVS1om5S7q7rtrl83XLAhrA/X83HEC/kEPcS8Tgw8tADn5S6Ze8dWoQubYlZVe42S37hwdXHc5XFpgcMb8nT++EF6LPBTazXZqBBh7rKq+DvL6iywsrt70k95pi3BLND0AUMQmTbceOT0+6mXYonhi2lM/7yLOX2lsORuevuE3hVNIKZ9Vr7gF/dUxzLoO+ezFNOa5R6kzHQ2TLFc3VFC1a806014er1MEHaHejIqG68SR31T2tnReOdG957U4uzdW2/gA96znRPLbMtgSuwpBswbRVIXsifGjKGKOPgqGkjPekDW4gcqTWn+3ZYDIfqu4PepOK/fC+I9DZItiT+HfJ/012gr5MxfeR2OV+m4MUcvwe8M= ahsan@ahsan-T440s
